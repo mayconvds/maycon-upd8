@@ -1,0 +1,46 @@
+.main-register, .main-box {
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+}
+
+.main-register .content-register .logo-register img,
+.main-box .content-box .logo-box img{
+    width: 96px;
+}
+
+.container-register, .container-logo {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+}
+
+.container-register .container-title, .container-logo .container-title {
+    color: var(--purple);
+    font-weight: bold;
+}
+
+.form-register {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.form-register input, .form-register select {
+    border-radius: 10px;
+    border: 1px solid #000000;
+
+}
+
+thead tr {
+    background: #e0dede;
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid #000000;
+}
+
+.table thead th {
+    border-bottom: 1px solid #000000 !important;
+}
+
+
